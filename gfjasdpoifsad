@@ -1,0 +1,29 @@
+[33mcommit 56f9fb5754f6f3e36841bc89fd176da36c97ea6a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: jinsa <jinsa004@gmail.com>
+Date:   Wed Aug 31 08:20:31 2022 +0900
+
+    스프링부트 데이터 응답하기.
+
+[33mcommit a4461550df43cd8cc24a7c8491a7984e323db581[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: jinsa <jinsa004@gmail.com>
+Date:   Mon Aug 29 16:17:19 2022 +0900
+
+    컨트롤러 데이터 받기 고급(json, x-www-form-encoded)
+
+[33mcommit cb5adb08515b4477bf9ad2d133db0cf25dbee682[m
+Author: jinsa <jinsa004@gmail.com>
+Date:   Mon Aug 29 15:03:04 2022 +0900
+
+    스프링부트 컨트롤러 데이터 받기 기본
+
+[33mcommit c3a8901b92352a4c0dd8e5287f0e390973052c85[m
+Author: jinsa <jinsa004@gmail.com>
+Date:   Mon Aug 29 11:46:43 2022 +0900
+
+    Http 매핑 공부완료
+
+[33mcommit 91817599278cf7b40285e3e0e248ddcc5485479f[m
+Author: jinsa <jinsa004@gmail.com>
+Date:   Mon Aug 29 09:51:44 2022 +0900
+
+    프로젝트 초기화 완료
